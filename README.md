@@ -3,16 +3,12 @@
 -This proyect is the first landing page introducing a fabulous team of new women developers.
 
 -The members of the proyect are: 
-     Alba Rus. github.com/
-     Beatriz de Ávila. github.com/Beadeavila
-     Leidy Villamil. github.com/leidyvi
-     Natalia Palomo. github.com/
-     Sandra León Del Risco. github.com/
-     
-- CAPTURAS DE PANTALLA
-
-
-
+     [Alba Rus]  (https://github.com/Albaric0que)
+     [Beatriz de Ávila] (https://github.com//Beadeavila)
+     [Leidy Villamil] (https://github.com//Beadeavila)
+     [Natalia Palomo] (https://github.com/Nataliaplm)
+    [Sandra León Del Risco] (https://github.com/sandraldr27)
+    
 
 -In this proyect we are using:
    -html5
