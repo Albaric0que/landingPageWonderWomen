@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5em;
+  font-size: 16px;
+}
+
+header {
+  background-color: #a41b30;
+  color: #cb973b;
+  display: flex;
+  justify-content: start;
+}
+
+h1 {
+  font-size: 70px;
+  padding-top: 65px;
+}
+
+h3 {
+  text-align: center;
+  color: #a41b30;
+  font-size: 50px;
+  padding: 20px;
+  padding-top: 40px;
+}
+
+main {
+  background-color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 40px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #000000;
+  border-top: solid rgb(243, 226, 43) 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: white;
+}
+
+p {
+  margin: 20px 20px;
+}
+
+.coderPic {
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  border: solid black 3px;
+  margin: 30px;
+}
+
+.logo {
+  width: 300px;
+  height: 200px;
+}
+
+.coderBlock {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  background-color: grey;
+  border: solid black 3px;
+  margin: 30px 80px 30px 80px;
+}
+
+.text {
+  text-align: justify;
+}
+
+.intro {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.introTwo {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
